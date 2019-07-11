@@ -1,7 +1,8 @@
 # 모두의 클래스 정책 및 사내문화
 
-
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+![](image/logo1024.png)
+sdkjlf
+##언제 어디서나 함께 하는 즐거움
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
 
