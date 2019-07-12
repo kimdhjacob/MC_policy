@@ -12,9 +12,9 @@
 
 <img src="image/logo1024.png" width="200" height="auto"/></img>
 
+![width:5px;](image/logo1024.png)
+
  
-
-
 
 ## 모두의 클래스 서비스 개요 성성
 
@@ -30,7 +30,7 @@
 
 사용자 단에서의 유저활동의 목적은 전환율과 다양한 상세 페이지 이동에 있다. 플랫폼의 *선택의 역설 (가격의 다양성)* 을 심는데 있다.  웹으로 구성 되어 있지만 모바일을 중심으로 기획되어 `width 960px` 사이드 메뉴를 최대한 지양하고 단일 플로워로 구성한다. 
 
-- [홈 화면 : 기획문서](home)  => [`web`](https://www.modooclass.net/)
+- [홈 화면 : 기획문서](home)  => [`web`](https://www.modooclass.net/ : target="_blank") 새창열기 테스트
 - 검색 => 미완료 (기획단계)
 - [로그인 / 회원가입 / 비번 찾기 : 기획문서](home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 - [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서 ](home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
