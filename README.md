@@ -1,4 +1,4 @@
-# 모두의 클래스 항해일지
+# 모두의 클래스 제작가이드
 
 > **노하우** 를 배우고 나누는 클래스 마켓
 >
@@ -26,14 +26,15 @@
 
 ### 1장. 사용자단  `web`
 
+사용자 단에서의 유저활동의 목적은 전환율과 다양한 상세 페이지 이동에 있다. 플랫폼의 *선택의 역설 (가격의 다양성)* 을 심는데 있다.  
+
 ######  사용자단은 웹으로 구성 되어 있지만 모바일을 중심으로 기획되어 `width 960px` 사이드 메뉴를 최대한 지양하고 단일 플로워로 구성한다.  
 
- 
 
 
-
-- [로그인 / 회원가입 / 비번 찾기 : 기획문서](modooclass/home/login)   =>  [*서비스화면단이동*](https://www.modooclass.net/modoo/login)
-- [홈 화면 : 기획문서](modooclass/home)  => [*서비스화면단이동*](https://www.modooclass.net/)
+- [홈 화면 : 기획문서](home/readme.md)  => [*서비스화면단이동*](https://www.modooclass.net/)
+- [로그인 / 회원가입 / 비번 찾기 : 기획문서](home/login/readme.md)   =>  [*서비스화면단이동*](https://www.modooclass.net/modoo/login)
+- 
 - 
 - 
 
@@ -58,6 +59,14 @@
 
 
 ### 7장. Configuration  `git-text`
+
+
+
+
+
+## 모두의 클래스 정책
+
+
 
 
 
