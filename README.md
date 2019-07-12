@@ -1,4 +1,8 @@
-# 모두의 클래스 제작가이드
+# 모두의 클래스 제작 가이드
+
+============================================
+
+
 
 > **노하우** 를 배우고 나누는 클래스 마켓
 >
@@ -6,7 +10,9 @@
 
 
 
-<img src="image/logo1024.png" width="200" height="auto"/>
+<img src="image/logo1024.png" width="200" height="auto"/></img>
+
+ 
 
 
 
@@ -24,22 +30,24 @@
 
 사용자 단에서의 유저활동의 목적은 전환율과 다양한 상세 페이지 이동에 있다. 플랫폼의 *선택의 역설 (가격의 다양성)* 을 심는데 있다.  웹으로 구성 되어 있지만 모바일을 중심으로 기획되어 `width 960px` 사이드 메뉴를 최대한 지양하고 단일 플로워로 구성한다. 
 
-- [홈 화면 : 기획문서](home)  => [*서비스화면단이동*](https://www.modooclass.net/)
+- [홈 화면 : 기획문서](home)  => [`web`](https://www.modooclass.net/)
 - 검색 => 미완료 (기획단계)
-- [로그인 / 회원가입 / 비번 찾기 : 기획문서](home/login)   =>  [*서비스화면단이동*](https://www.modooclass.net/modoo/login)
-- [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서 ](home/detail)   =>  [*서비스화면단이동*](https://www.modooclass.net/class/classDetail/483)
-- [패키지 : 기획문서 ](home/package)   =>  [*서비스화면단이동*](https://www.modooclass.net/class/pay/package/488)
-- [결제 : 기획문서 ](home/pay)   =>  [*서비스화면단이동*](https://www.modooclass.net/class/pay/payinfo/488/214)
-- [결제완료 : 기획문서 ](home/pay/confirm)   =>  [*서비스화면단이동*](https://www.modooclass.net/class/group/436)
-- [알림페이지 : 기획문서 ](home/pay/alram)   =>  [*서비스화면단이동*](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
+- [로그인 / 회원가입 / 비번 찾기 : 기획문서](home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
+- [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서 ](home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
+- [패키지 : 기획문서 ](home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
+- [결제 : 기획문서 ](home/pay)   =>  [`web`](https://www.modooclass.net/class/pay/payinfo/488/214)
+- [결제완료 : 기획문서 ](home/pay/confirm)   =>   [`web`](https://www.modooclass.net/class/group/436)
+- [알림페이지 : 기획문서 ](home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
 - [추가개선 : 기획문서 ](home/upgrade)
 - [사용자단 - configuration ](configuration/home)
 
 ###### [작업자]
 
-*기획 -* `@김대형` `@신민수` 
-*디자인 -* `@김보라` 
-*개발 -* `@안지환` `@김혜진`  + `@노육민`
+기획 - `@김대형` `@신민수`  
+
+디자인 - `@김보라` 
+
+개발 - `@안지환` `@김혜진`  + `@노육민`
 
 
 
