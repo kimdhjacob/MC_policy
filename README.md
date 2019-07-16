@@ -51,7 +51,7 @@
 
 - [로그인 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 
-- [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
+- [상세 (알림|1:1코칭|무료|선결제|환급|일반)](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
 
 - [패키지 : 기획문서 ](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
 
@@ -63,11 +63,13 @@
 
 - [추가개선 : QA 문서](service/ch1_home/upgrade)
 
-- [사용자단 - configuration ](service/ch7_configuration/home)
+- [사용자단 - configuration ](service/ch1_home/config)
 
   
 
   [작업자] 기획 - `@김대형` `@신민수`  | 디자인 - `@김보라`  | 개발 - `@안지환` `@김혜진`  + `@노육민`
+
+
 
 
 
@@ -81,21 +83,23 @@
 
 - [마이페이지(클래스)](service/ch2_my_class)  => [`web`](https://www.modooclass.net/class/user/mypage) 
 
-- 팔로워/팔로윙
+- [팔로워/팔로윙](service/ch2_my_class/follow)  => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 프로필수정
+- [프로필수정](service/ch2_my_class/edit)  => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 포인트내역 | 결제내역
+- [포인트내역 | 결제내역](service/ch2_my_class/point) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 내가남긴리뷰
+- [내가남긴리뷰](service/ch2_my_class/review) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 이벤트 | 문의하기 | 자주묻는질문
+- [정산(기획 미완료)](service/ch2_my_class/accounts) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 이용약관 | 개인정보처리방침
+- [이벤트 | 문의하기 | 자주묻는질문](service/ch2_my_class/board) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 추가개선 :  QA문서
+- [이용약관 | 개인정보처리방침](service/ch2_my_class/notice) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 마이페이지 - configuration
+- [추가개선 :  QA문서](service/ch2_my_class/upgrade)
+
+- [마이페이지 - configuration](service/ch2_my_class/config)
 
   
   
@@ -103,28 +107,27 @@
   [작업자] 기획 - `@김대형` `@신민수`  | 디자인 - `@김보라` | 개발 - `@안지환` `@노육민` `@박정희`
   
   
-
-
+  
 
 ###  3장. 클래스 개설  `web`
 
 누구나 코치가 될 수 있도록 한다. 코치가이드 화면을 거쳐 쉽게 영상 업로드후 정보 입력 하면 수익화 할 수 있는 클래스를 가질 수 있는 사용성에 초점을 두고 개발한다. 
 
-쉽고 편한 사용성 중심의  UI/UX 에 기반한 빠르게 영상업로드 한번으로 끝내도록 한다.
+쉽고 편한 사용성 중심의  UI/UX 에 기반한 단계를 줄이거나 정보입력에 빠져들게 한다. 
 
 **핵심지표 : 페이지 이탈율**
 
-- 코치가이드
+- 코치가이드 => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 코치정보입력
+- 코치정보입력 => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 클래스개요
+- 클래스개요 => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 커리큘럼
+- 커리큘럼 => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 패키지정보
+- 패키지정보 => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 알림정보
+- 알림정보 => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
 - 추가개선 :  QA문서
 
@@ -139,11 +142,65 @@
 
 ###  4장. 클래스 관리  `web`
 
+클래스 관리는 코치(선생님)쓰는 화면으로 최소한의 리소스로 많은 회원들을 관리 할 수 있는가? 쉬운 커뮤니티 관리에 집중한다. 추가적으로 코치에게 회원들이 주는 응원과 격려를 통한 지속가능한 에너지를 갖도록 만드는 UI/UX를 고려한다. 
 
+적은 리소스로 커뮤니티 운영 + 회원의 응권과 격려를 받을 수 있는  UI/UX
+
+**핵심지표 : 리텐션 (페이지 머무르는 시간, 재방문 횟수)**
+
+- 클래스 관리 리스트 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 커뮤니티 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 커리큘럼 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 리뷰 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 수강생 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 수익 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 추가개선 :  QA문서
+
+- 클래스관리 - configuration
+  
+
+  [작업자] 기획 - `@김대형` `@신민수`  | 디자인 - `@김보라` | 개발 - `@안지환` `@노육민` `@박정희`
+
+  
 
 
 
 ###  5장. 클래스 참여  `app`
+
+모두의 클래스 앱으로 수업에 참여
+
+사용자 참여(클래스 완강율)를 주요 관점으로 보고, 이를 위해 사용자들끼리의 네트워크를 통한 리텐션을 높이도록 한다. 
+
+**핵심지표 : 리텐션 (클래스별 완강율, 일/주간 앱내 머무르는 시간, 재방문율, 재결제율)**
+
+- 홈 => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+
+- 클래스(수업) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+
+- 클래스(커리큘럼) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+
+- 클래스(응원하기) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+
+- 클래스(커뮤니티) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+
+- 채팅 => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+
+- 알림 => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+
+- 프로필 => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+
+- 추가개선 :  QA 문서
+
+- 클래스참여 - configuration
+
+
+  [작업자] 기획 -  `@신민수` `@김대형` |디자인 - `@신미소` | 개발 - `@이대준` `@조현민` `@안지환`
 
 
 
@@ -151,7 +208,24 @@
 
 ### 6장. CMS 최종 관리자단  `web`
 
+고객관리 센터 화면 : 환불 정산등을 효율적으로 처리 할 수 있도록 한다. 
 
+- 회원관리 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 코치관리 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 클래스 관리 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 결제관리 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 카테고리 및 배너 제어 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- 추가개선 :  QA문서
+
+- CMS - configuration
+
+
+  [작업자] `@안지환`
 
 
 
@@ -159,7 +233,7 @@
 
 - 서버구성
 - DB구성
-- Config
+- Config (status, level, etc...)
 
 
 
