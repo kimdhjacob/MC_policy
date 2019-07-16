@@ -24,43 +24,6 @@
 
 
 
-### 1장. 사용자단  `web`
-
-######  사용자단은 웹으로 구성 되어 있지만 모바일을 중심으로 기획되어 `width 960px` 사이드 메뉴를 최대한 지양하고 단일 플로워로 구성한다.  
-
- 
-
-
-
-- [로그인 / 회원가입 / 비번 찾기 : 기획문서](modooclass/home/login)   =>  [*서비스화면단이동*](https://www.modooclass.net/modoo/login)
-- [홈 화면 : 기획문서](modooclass/home)  => [*서비스화면단이동*](https://www.modooclass.net/)
-- 
-- 
-
-### 2장. 마이페이지  `web` 
-
-
-
-### 3장. 클래스 개설  `web`
-
-노하우 를 배우고 나누는 클래스 마켓
-
-### 4장. 클래스 관리  `web`
-
-
-
-### 5장. 클래스 참여  `app`
-
-
-
- ### 6장. CMS 최종 관리자단  `web`
-
-
-
-### 7장. Configuration  `git-text`
-
-
-
 ##  Contributor 
 
 #### [서비스 제작 참여]

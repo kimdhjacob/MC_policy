@@ -13,11 +13,11 @@
 >  **모두의 클래스**는 누구나 코치(선생님)가 될 수 있는 온라인 클래스 플랫폼(웹/앱) 서비스로 
 >  클래스 완강을 위한 사람과 사람의 연결 | 동기부여에 가치를 두고 있다. 
 >
->  해당 문서는 내부 가이드 문서로서 팀원간 원활한 소통과 서비스 정책을 공유 하기 위함이다..
+>  해당 문서는 내부 가이드 문서로서 팀원간 원활한 소통과 서비스 정책을 공유 하기 위함이다.
 >
 >  *총 4개의 문서로 구성*
 >
->  - [#1.서비스](## #1.서비스) (아래 7개 장으로 구성) - `개발팀`
+>  - [#1.서비스](## #1.서비스) - `개발팀`
 >  - [#2.컨텐츠](contents) - `컨텐츠팀`
 >  - [#3.마케팅](marketing) - `마케팅팀`
 >  - [#4.정책문서](policy) - `전체관리`
@@ -30,7 +30,7 @@
 
 
 
-> 서비스 구성 문서는 화면단으로 분리
+> 서비스는 7장 - 각 화면단으로 분리
 >
 > 각 화면단은 `구성|기능|디자인|작업자 `  로  되어 있으며,
 >
@@ -59,7 +59,7 @@
 
 - [알림페이지 : 기획문서 ](service/ch1_home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
 
-- [추가개선 : 기획문서 ](service/ch1_home/upgrade)
+- [추가개선 : QA 문서](service/ch1_home/upgrade)
 
 - [사용자단 - configuration ](service/ch7_configuration/home)
 
@@ -69,18 +69,30 @@
 
 
 
-
-
 ###  2장. 마이페이지  `web` 
 
-마이페이지는 사용자간의 연결성을 중요시 하여 고려한다. 친구페이지에ㄴ 가서 친구를 맺고 소통을 위한 공간으로 기획한다.  모바일 중심으로 기획 / 단일 플로워  `width 750px` 로 구성한다. 앱에서도 해당 화면들이 같이 사용되기 때문에 웹상에서 좌측 상단의 백버튼과 스키마를 통해 앱화면으로 이동을 제어 한다.  
+마이페이지에서 참여/운영/관심 있는 클래스 및 이웃과의 허브 역활을 한다.   
 
-마이페이지에서 프로필|결제|포인트|클래스|프로필등으로 연결되어 관리되며 기타 페이지등으로 연결되는 허브 역활을 한다.  
+가장 많이 이용하는 지점을 찾아 유저가 다른 클래스 | 회원과 연결점을 잘 찾을 수 있게 하는 것이 목표. (해당페이지의 이탈율 최소가 페이지의 목표)  
 
-- 
+- [마이클래스(페이지)](service/ch2_my_class)  => [`web`](https://www.modooclass.net/class/user/mypage) 
 
-- 
+- 팔로워/팔로윙
 
+- 프로필수정
+
+- 포인트내역 | 결제내역
+
+- 내가남긴리뷰
+
+- 이벤트 | 문의하기 | 자주묻는질문
+
+- 이용약관 | 개인정보처리방침
+
+  
+  
+  [작업자] 기획 - `@김대형` `@신민수`  | 디자인 - `@김보라` | 개발 - `@안지환` `@노육민` `@박정희`
+  
   
 
 
@@ -95,7 +107,11 @@
 
 
 
+
+
 ###  5장. 클래스 참여  `app`
+
+
 
 
 
@@ -103,7 +119,13 @@
 
 
 
+
+
 ###  7장. Configuration  `git-text`
+
+- 서버구성
+- DB구성
+- Config
 
 
 
@@ -145,7 +167,7 @@
 
 
 
-##  **Contributor** 
+##  **CONTRIBUTOR** 
 
 #### [서비스 제작 참여]
 
