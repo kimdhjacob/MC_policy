@@ -117,21 +117,21 @@
 
 **핵심지표 : 페이지 이탈율**
 
-- 코치가이드 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [코치가이드](service/ch3_open_class/) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 코치정보입력 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [코치정보입력](service/ch3_open_class/coach) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 클래스개요 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스개요](service/ch3_open_class/info) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 커리큘럼 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [커리큘럼](service/ch3_open_class/curriculum) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 패키지정보 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 알림정보 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 추가개선 :  QA문서
+- [추가개선 :  QA문서](service/ch3_open_class/upgrade)
 
-- 클래스개설 - configuration
+- [클래스개설 - configuration](service/ch3_open_class/config)
 
 
   [작업자] 기획 - `@김대형` `@신민수` | 디자인 - `@김보라` | 개발 - `@안지환` `@노육민` `@박정희`
@@ -148,22 +148,21 @@
 
 **핵심지표 : 리텐션 (페이지 머무르는 시간, 재방문 횟수)**
 
-- 클래스 관리 리스트 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스 관리 리스트](service/ch4_manage_class/) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 커뮤니티 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [커뮤니티](service/ch4_manage_class/community) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 커리큘럼 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [커리큘럼](service/ch4_manage_class/curriculum) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 리뷰 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [리뷰](service/ch4_manage_class/review) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 수강생 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [수강생](service/ch4_manage_class/member) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 수익 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [수익](service/ch4_manage_class/curriculum/profit) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 추가개선 :  QA문서
+- [추가개선 :  QA문서](service/ch4_manage_class/upgrade)
 
-- 클래스관리 - configuration
-  
+- [클래스관리 - configuration](service/ch4_manage_class/config)
 
   [작업자] 기획 - `@김대형` `@신민수`  | 디자인 - `@김보라` | 개발 - `@안지환` `@노육민` `@박정희`
 
@@ -179,25 +178,25 @@
 
 **핵심지표 : 리텐션 (클래스별 완강율, 일/주간 앱내 머무르는 시간, 재방문율, 재결제율)**
 
-- 홈 => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [홈](service/ch5_join_class/) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- 클래스(수업) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스(수업)](service/ch5_join_class/class) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- 클래스(커리큘럼) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스(커리큘럼)](service/ch5_join_class/curriculum) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- 클래스(응원하기) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스(응원하기)](service/ch5_join_class/cheer) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- 클래스(커뮤니티) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스(커뮤니티)](service/ch5_join_class/community) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- 채팅 => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [채팅](service/ch5_join_class/chat) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- 알림 => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [알림](service/ch5_join_class/alram) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- 프로필 => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [프로필](service/ch5_join_class/profile) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- 추가개선 :  QA 문서
+- [추가개선 :  QA 문서](service/ch5_join_class/upgrade)
 
-- 클래스참여 - configuration
+- [클래스참여 - configuration](service/ch5_join_class/config)
 
 
   [작업자] 기획 -  `@신민수` `@김대형` |디자인 - `@신미소` | 개발 - `@이대준` `@조현민` `@안지환`
@@ -210,30 +209,35 @@
 
 고객관리 센터 화면 : 환불 정산등을 효율적으로 처리 할 수 있도록 한다. 
 
-- 회원관리 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [회원관리](service/ch6_admin_cms/members) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 코치관리 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [코치관리](service/ch6_admin_cms/coachs) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 클래스 관리 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스 관리](service/ch6_admin_cms/class) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 결제관리 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [결제관리](service/ch6_admin_cms/payments) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 카테고리 및 배너 제어 => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [카테고리 및 배너 제어](service/ch6_admin_cms/etc) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- 추가개선 :  QA문서
+- [추가개선 :  QA문서](service/ch6_admin_cms/upgrade)
 
-- CMS - configuration
+- [CMS - configuration](service/ch6_admin_cms/config)
 
-
-  [작업자] `@안지환`
+  [작업자] `@안지환` `@김대형`
 
 
 
 ###  7장. Configuration  `git-text`
 
-- 서버구성
-- DB구성
-- Config (status, level, etc...)
+- [서버구성](service/ch7_configuration/server)
+
+- [DB구성](service/ch7_configuration/db)
+
+- [Config (status, level, etc...)](service/ch7_configuration/config)
+
+  [작업자] `@김대형` `@안지환` `@신민수`
+
+  
 
 
 
