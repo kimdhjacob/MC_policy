@@ -18,8 +18,8 @@
 
 >  모두의 클래스 서비스는 누구나 코치가 되어 온라인 클래스 플랫폼(웹/앱) 서비스로 클래스강의 완강을 위한 사람과 사람의 연결 동기부여에 가치를 두고 있다. 
 >
->  서비스 구성은 아래 7개 장으로 구성되어 있으며, 
->  [컨텐츠](contents), [마케팅](marketing), [정책](policy)문서에 의해 운영된다. 
+>  서비스 구성문서는 아래 7개 장으로 구성되어 있으며, 
+>  [컨텐츠](contents), [마케팅](marketing), [정책문서](policy)에 의해 운영된다. 
 >
 >  각 장은 화면단은 `구성|기능|디자인|작업자 `  로  되어 있으며
 >  -> 추가 개선사항과  Configuration 문서로 연결관리한다. 
@@ -28,9 +28,10 @@
 
 ### 1장. 사용자단  `web`
 
-사용자 단에서의 유저활동의 목적은 전환율과 다양한 상세 페이지 이동에 있다. 플랫폼의 *선택의 역설 (가격의 다양성)* 을 심는데 있다.  웹으로 구성 되어 있지만 모바일을 중심으로 기획되어 `width 960px` 사이드 메뉴를 최대한 지양하고 단일 플로워로 구성한다. 
+모두의 클래스의 얼굴 - 3전략 (보다 싸게, 많은 클래스, 최적화된 클래스 찾아주는 것. )
+기분 좋은 클래스 경험과 결제 전환율을 높이는 것. 
 
-- [홈 화면 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 새창열기 테스트
+- [홈 화면 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") <a href="http://example.com/" target="_blank">example</a> 새창열기 테스트
 - [검색 : 기획문서](service/ch1_home/search) => 미완료 (기획단계)
 - [로그인 / 회원가입 / 비번 찾기 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 - [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
@@ -44,7 +45,9 @@
 ###### [작업자]
 
 기획 - `@김대형` `@신민수`  
+
 디자인 - `@김보라` 
+
 개발 - `@안지환` `@김혜진`  + `@노육민`
 
 
