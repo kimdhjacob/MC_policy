@@ -34,7 +34,7 @@
 
 > 서비스는 7장 - 각 화면단으로 분리
 >
-> 각 화면단은 `구성|기능|디자인|작업자 `  로  되어 있으며,
+> 각 화면단은 `목적|구성|기능|디자인|작업자 `  로  되어 있으며,
 >
 > 추가 개선사항과  Configuration 문서로 연결관리한다. 
 
@@ -43,25 +43,25 @@
 ###  1장. 사용자단  `web`
 
 모두의 클래스의 얼굴 - 3전략 (보다 싸게, 많은 클래스, 최적화된 클래스 찾아주는 것. )  
-해당 장의 유저 목표는 기분 좋은 클래스 경험과 결제 전환율을 높이는 것이다. 
+해당 장의 유저 목표는 기분 좋은 클래스 경험과 전환율을 높이는 것이다. 
 
 **핵심지표 : 전환율(결제/알림/신청)**
 
-- [홈 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 
+- [홈화면](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 
 
-- [검색 : 기획문서](service/ch1_home/search) => 미완료 (기획단계)
+- [검색단](service/ch1_home/search) => 미완료 (기획단계)
 
-- [로그인 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
+- [로그인](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 
 - [상세 (알림|1:1코칭|무료|선결제|환급|일반)](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
 
-- [패키지 : 기획문서 ](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
+- [패키지 ](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
 
-- [결제 : 기획문서 ](service/ch1_home/pay)   =>  [`web`](https://www.modooclass.net/class/pay/payinfo/488/214)
+- [결제화면](service/ch1_home/pay)   =>  [`web`](https://www.modooclass.net/class/pay/payinfo/488/214)
 
-- [결제완료 : 기획문서 ](service/ch1_home/pay/confirm)   =>   [`web`](https://www.modooclass.net/class/group/436)
+- [결제완료](service/ch1_home/pay/confirm)   =>   [`web`](https://www.modooclass.net/class/group/436)
 
-- [알림페이지 : 기획문서 ](service/ch1_home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
+- [알림페이지](service/ch1_home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
 
 - [추가개선 : QA 문서](service/ch1_home/upgrade)
 
