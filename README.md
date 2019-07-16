@@ -1,4 +1,6 @@
-# MODOOCLASS. GUIDE
+
+
+# ModooCLASS. GUIDE
 
 #### **노하우** 를 배우고 나누는 클래스 마켓 
 
@@ -235,7 +237,7 @@
 
 - [Config (status, level, etc...)](service/ch7_configuration/config)
 
-  [작업자] `@김대형` `@안지환` `@신민수`
+  [작업자] `@김대형` `@안지환` `@신민수형`
 
   
 
