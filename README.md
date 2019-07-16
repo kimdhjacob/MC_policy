@@ -1,12 +1,10 @@
 # MODOOCLASS. GUIDE
 
-
-
-![](assets/image/logo1024.png)
-
 #### **노하우** 를 배우고 나누는 클래스 마켓 
 
 #### 언제 어디서나 함께 하는 즐거움. 
+
+
 
 
 
@@ -48,7 +46,7 @@
 - [로그인 / 회원가입 / 비번 찾기 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 - [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
 - [패키지 : 기획문서 ](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
-- [결제 : 기획문서 ](service/ch1_home/pay)   =>  [`web`](https://www.modooclass.net/class/pay/payinfo/488/214)
+- [결제 : 기획문서 ](service/ch1_home/pay)   =>  [`web의`](https://www.modooclass.net/class/pay/payinfo/488/214)
 - [결제완료 : 기획문서 ](service/ch1_home/pay/confirm)   =>   [`web`](https://www.modooclass.net/class/group/436)
 - [알림페이지 : 기획문서 ](service/ch1_home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
 - [추가개선 : 기획문서 ](service/ch1_home/upgrade)
@@ -57,9 +55,7 @@
 ###### [작업자]
 
 기획 - `@김대형` `@신민수`  
-
-디자인 - `@김보라` 
-
+디자인 - `@김보라`  
 개발 - `@안지환` `@김혜진`  + `@노육민`
 
 
@@ -111,6 +107,12 @@
 ## **모두의 클래스 정책**
 
 
+
+
+
+![](assets/image/logo1024.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 
 
