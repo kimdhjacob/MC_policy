@@ -31,7 +31,7 @@
 모두의 클래스의 얼굴 - 3전략 (보다 싸게, 많은 클래스, 최적화된 클래스 찾아주는 것. )
 기분 좋은 클래스 경험과 결제 전환율을 높이는 것. 
 
-- [홈 화면 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") <a href="http://example.com/" target="_blank">example</a> 새창열기 테스트
+- [홈 화면 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") <a href="http://example.com/" target="_blank">example</a> 새창열기 테스트 [link](www.naver.com){:target="_blank"}
 - [검색 : 기획문서](service/ch1_home/search) => 미완료 (기획단계)
 - [로그인 / 회원가입 / 비번 찾기 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 - [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
