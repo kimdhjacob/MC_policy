@@ -1,4 +1,4 @@
-# MODOOCLASS. `GUIDE`
+# MODOOCLASS. GUIDE
 
 #### **노하우** 를 배우고 나누는 클래스 마켓 
 
@@ -26,7 +26,7 @@
 
 
 
-## **`#1` 서비스 **
+## **#1. 서비스 **
 
 
 
@@ -104,19 +104,19 @@
 
 
 
-##  **`#2` CONTENTS** 
+##  **#2. CONTENTS** 
 
 
 
 
 
-## **`#3` MARKETING**
+## **#3. MARKETING**
 
 
 
 
 
-## **`#4` POLICY**
+## **#4. POLICY**
 
 - 개인정보 및 이용약관
 
