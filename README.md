@@ -13,6 +13,8 @@
 >  **모두의 클래스**는 누구나 코치가 될 수 있는 온라인 클래스 플랫폼(웹/앱) 서비스로 
 >  클래스 강의 완강을 위한 사람과 사람의 연결 | 동기부여에 가치를 두고 있다. 
 >
+>  해당 문서는 내부 가이드 문서로서 팀원간 원활한 소통과 회원을 위한 서비스 정책을 공유 하기 위함이다..
+>
 >  *총 4개의 문서로 구성*
 >
 >  - [#1.서비스](## #1.서비스) (아래 7개 장으로 구성) - `개발팀`
@@ -41,7 +43,7 @@
 모두의 클래스의 얼굴 - 3전략 (보다 싸게, 많은 클래스, 최적화된 클래스 찾아주는 것. )
 기분 좋은 클래스 경험과 결제 전환율을 높이는 것. 
 
-- [홈 화면 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") <a href="http://example.com/" target="_blank">example</a> 새창열기 테스트 [link](www.naver.com){:target="_blank"}
+- [홈 화면 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 
 - [검색 : 기획문서](service/ch1_home/search) => 미완료 (기획단계)
 - [로그인 / 회원가입 / 비번 찾기 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 - [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
@@ -52,7 +54,7 @@
 - [추가개선 : 기획문서 ](service/ch1_home/upgrade)
 - [사용자단 - configuration ](service/ch7_configuration/home)
 
-###### [작업자]
+###### [작업자]원
 
 기획 - `@김대형` `@신민수`  
 디자인 - `@김보라`  
@@ -105,6 +107,10 @@
 
 
 ## **모두의 클래스 정책**
+
+
+
+
 
 
 
