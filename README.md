@@ -38,29 +38,40 @@
 
 
 
-###  	1장. 사용자단  `web`
+###  1장. 사용자단  `web`
 
 모두의 클래스의 얼굴 - 3전략 (보다 싸게, 많은 클래스, 최적화된 클래스 찾아주는 것. )  
 해당 장의 유저 목표는 기분 좋은 클래스 경험과 결제 전환율을 높이는 것이다. 
 
 - [홈 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 
+
 - [검색 : 기획문서](service/ch1_home/search) => 미완료 (기획단계)
+
 - [로그인 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
+
 - [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
+
 - [패키지 : 기획문서 ](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
+
 - [결제 : 기획문서 ](service/ch1_home/pay)   =>  [`web`](https://www.modooclass.net/class/pay/payinfo/488/214)
+
 - [결제완료 : 기획문서 ](service/ch1_home/pay/confirm)   =>   [`web`](https://www.modooclass.net/class/group/436)
+
 - [알림페이지 : 기획문서 ](service/ch1_home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
+
 - [추가개선 : 기획문서 ](service/ch1_home/upgrade)
+
 - [사용자단 - configuration ](service/ch7_configuration/home)
 
-  ###### [작업자]
+  
 
-  ###### 기획 - `@김대형` `@신민수`  | 디자인 - `@김보라`  | 개발 - `@안지환` `@김혜진`  + `@노육민`
+  [작업자] 기획 - `@김대형` `@신민수`  | 디자인 - `@김보라`  | 개발 - `@안지환` `@김혜진`  + `@노육민`
 
 
 
-###  	2장. 마이페이지  `web` 
+
+
+###  2장. 마이페이지  `web` 
 
 마이페이지는 사용자간의 연결성을 중요시 하여 고려한다. 친구페이지에 가서 친구를 맺고 소통을 위한 공간으로 기획한다.  모바일 중심으로 기획 / 단일 플로워  `width 750px` 로 구성한다. 앱에서도 해당 화면들이 같이 사용되기 때문에 웹상에서 좌측 상단의 백버튼과 스키마를 통해 앱화면으로 이동을 제어 한다.  
 
@@ -74,31 +85,27 @@
 
 
 
-###  	3장. 클래스 개설  `web`
+###  3장. 클래스 개설  `web`
 
 노하우 를 배우고 나누는 클래스 마켓
 
 
 
-###  	4장. 클래스 관리  `web`
+###  4장. 클래스 관리  `web`
+
+
+
+###  5장. 클래스 참여  `app`
+
+
+
+ ###  6장. CMS 최종 관리자단  `web`
 
 
 
 
 
-###  	5장. 클래스 참여  `app`
-
-
-
-
-
- ###  	6장. CMS 최종 관리자단  `web`
-
-
-
-
-
-###  	7장. Configuration  `git-text`
+###  7장. Configuration  `git-text`
 
 
 
