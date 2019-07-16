@@ -1,4 +1,4 @@
-# MODOOCLASS. GUIDE
+# MODOOCLASS. `GUIDE`
 
 #### **노하우** 를 배우고 나누는 클래스 마켓 
 
@@ -26,7 +26,7 @@
 
 
 
-## #1.서비스
+## **`#1` 서비스 **
 
 
 
@@ -43,12 +43,12 @@
 모두의 클래스의 얼굴 - 3전략 (보다 싸게, 많은 클래스, 최적화된 클래스 찾아주는 것. )
 기분 좋은 클래스 경험과 결제 전환율을 높이는 것. 
 
-- [홈 화면 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 
+- [홈 : 기획문서](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 
 - [검색 : 기획문서](service/ch1_home/search) => 미완료 (기획단계)
-- [로그인 / 회원가입 / 비번 찾기 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
+- [로그인 : 기획문서](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 - [상세 (알림|1:1코칭|무료|선결제|환급일반|일반) : 기획문서](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
 - [패키지 : 기획문서 ](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
-- [결제 : 기획문서 ](service/ch1_home/pay)   =>  [`web의`](https://www.modooclass.net/class/pay/payinfo/488/214)
+- [결제 : 기획문서 ](service/ch1_home/pay)   =>  [`web`](https://www.modooclass.net/class/pay/payinfo/488/214)
 - [결제완료 : 기획문서 ](service/ch1_home/pay/confirm)   =>   [`web`](https://www.modooclass.net/class/group/436)
 - [알림페이지 : 기획문서 ](service/ch1_home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
 - [추가개선 : 기획문서 ](service/ch1_home/upgrade)
@@ -104,7 +104,19 @@
 
 
 
-## **모두의 클래스 정책**
+##  **`#2` CONTENTS** 
+
+
+
+
+
+## **`#3` MARKETING**
+
+
+
+
+
+## **`#4` POLICY**
 
 - 개인정보 및 이용약관
 
