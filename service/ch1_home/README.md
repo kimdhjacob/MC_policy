@@ -6,18 +6,7 @@
 
 
 
-##### 사용자단 INDEX
-
-1. 홈
-2. [검색단](search/)
-3. [로그인](login)
-4. [상세페이지](detail)
-5. [패키지](package)
-6. [결제화면](pay)
-7. [결제완료](confirm/)
-8. [알림페이지](alram/)
-9. [QA 문서](upgrade/)
-10. [config](config)
+< 이전      [**전체인덱스**](../../README.md)     [다음 >](search/)
 
 
 
