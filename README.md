@@ -38,14 +38,14 @@
 >
 > 추가 개선사항과  Configuration 문서로 연결관리한다. 
 
-
+지
 
 ###  1장. 사용자단  `web`
 
 모두의 클래스의 얼굴 - 3전략 (보다 싸게, 많은 클래스, 최적화된 클래스 찾아주는 것. )  
 해당 장의 유저 목표는 기분 좋은 클래스 경험과 전환율을 높이는 것이다. 
 
-**핵심지표 : 전환율(결제/알림/신청)**
+**지핵심지표 : 전환율(결제/알림/신청)**
 
 - [홈화면](service/ch1_home)  => [`web`](https://www.modooclass.net/) 
 
@@ -61,7 +61,7 @@
 
 - [결제완료](service/ch1_home/pay/confirm)   =>   [`web`](https://www.modooclass.net/class/group/436)
 
-- [알림페이지](service/ch1_home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
+- [알림지페이지](service/ch1_home/pay/alram)   =>  [`web`](https://www.modooclass.net/class/confirm/alarm/646/member/140019?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpLmVuZml0Lm5ldFwvYXBpXC92M1wvb3BlbmNhbGxcLzY0NiIsImlhdCI6MTU2MjcxNDczNSwiZXhwIjoxNTYzOTI0MzM1LCJuYmYiOjE1NjI3MTQ3MzUsImp0aSI6IlY4cUZlNVdUZVppbk9YYzYiLCJzdWIiOjE0MDAxOSwicHJ2IjoiOTYyYTE0ZDQ4YzQyOWUzYTZhYWIzNjEwYzAzNTJiZmJiNDVlZmM1OCJ9.42H7yjucquFfqHzDn5Xoo_Rf9qqEs16Oa50c3iO0T-g)
 
 - [추가개선 : QA 문서](service/ch1_home/upgrade)
 
@@ -79,13 +79,16 @@
 
 마이페이지에서 참여/운영/관심 있는 클래스 및 이웃과의 허브 역활을 한다.   
 
-가장 많이 이용하는 지점을 찾아 유저가 다른 클래스 | 회원과 연결점을 잘 찾을 수 있게 하는 것이 목표. (해당페이지의 이탈율 최소가 페이지의 목표)  
+가장 많이 이용하는 지점을 찾아 유저가 다른 클래스 | 회원과 연결점을 잘 찾을 수 있게 하는 것이 목표.  
+(해당페이지의 이탈율 최소가 페이지의 목표)  
 
 **핵심지표 : 이동페이지경로 및 이탈율**
 
 - [마이페이지(클래스)](service/ch2_my_class)  => [`web`](https://www.modooclass.net/class/user/mypage) 
 
 - [팔로워/팔로윙](service/ch2_my_class/follow)  => [`web`](https://www.modooclass.net/class/user/following/140019) 
+
+- [친구페이지](service/ch2_my_class/friend) => [`web`](https://www.modooclass.net/class/user/friend_profile/138568)
 
 - [프로필수정](service/ch2_my_class/edit)  => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
