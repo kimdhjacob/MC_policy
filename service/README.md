@@ -1,11 +1,11 @@
 # 서비스 인덱스
 
-> 모두의 트레이닝 [실제 서비스 화면](www.modooclass.net)
+> 모두의 트레이닝 [실제 서비스 화면](https://www.modooclass.net/)
 >
 
 
 
-### [전체 가이드 화면 이동](/)
+### [전체 가이드 화면 이동](https://github.com/kdh4242/MC_policy)
 
 
 ## 1장 사용자단
