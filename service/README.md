@@ -8,6 +8,11 @@
 ### [전체 가이드 화면 이동](https://github.com/kdh4242/MC_policy)
 
 
+
+[전체 가이드 화면 이동](../README.md)
+
+
+
 ## 1장 사용자단
 
 1. [홈](ch1_home/)
