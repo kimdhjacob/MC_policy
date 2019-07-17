@@ -8,7 +8,7 @@
 
 #### 언제 어디서나 함께 하는 즐거움. 
 
-
+test
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-## **#1.  SERVICE **
+## **#1.  SERVICE**
 
 
 
@@ -49,7 +49,7 @@
 
 **핵심지표 : 전환율(결제/알림/신청)**
 
-- [홈화면](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 
+- [git remote add origin https://github.com/kdh4242/MC_policy.git홈화면](service/ch1_home)  => [`web`](https://www.modooclass.net/ : target="_blank") 
 
 - [검색단](service/ch1_home/search) => 미완료 (기획단계)
 
@@ -57,7 +57,7 @@
 
 - [상세 (알림|1:1코칭|무료|선결제|환급|일반)](service/ch1_home/detail)   =>  [`web`](https://www.modooclass.net/class/classDetail/483)
 
-- [패키지 ](service/ch1_home/package)   =>  [`web`](https://www.modooclass.net/class/pay/package/488)
+- [패키지 ](service/ch1_home/package)   =>  [`webgit remote add origin https://github.com/kdh4242/MC_policy.git`](https://www.modooclass.net/class/pay/package/488)
 
 - [결제화면](service/ch1_home/pay)   =>  [`web`](https://www.modooclass.net/class/pay/payinfo/488/214)
 
@@ -81,7 +81,7 @@
 
 마이페이지에서 참여/운영/관심 있는 클래스 및 이웃과의 허브 역활을 한다.   
 
-가장 많이 이용하는 지점을 찾아 유저가 다른 클래스 | 회원과 연결점을 잘 찾을 수 있게 하는 것이 목표. (해당페이지의 이탈율 최소가 페이지의 목표)  
+가장 많이 이용하는 지점을 찾아 유저가 다른 클래스 | 회원과 연git remote add origin https://github.com/kdh4242/MC_policy.git결점을 잘 찾을 수 있게 하는 것이 목표. (해당페이지의 이탈율 최소가 페이지의 목표)  
 
 **핵심지표 : 이동페이지경로 및 이탈율**
 
@@ -131,7 +131,7 @@
 
 - [패키지정보](service/ch3_open_class/package) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [알림정보](service/ch3_open_class/alram) => [`web`](https://www.modooclass.net/class/user/following/140019) git remote add origin https://github.com/kdh4242/MC_policy.gitgit remote add origin https://github.com/kdh4242/MC_policy.git
 
 - [추가개선 :  QA문서](service/ch3_open_class/upgrade)
 
@@ -188,7 +188,7 @@
 
 - [클래스(커리큘럼)](service/ch5_join_class/curriculum) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
-- [클래스(응원하기)](service/ch5_join_class/cheer) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
+- [클래스(응원하기)](service/ch5_join_class/cheer) => [`app down`](https://www.modooclass.net/class/user/following/140019) git remote add origin https://github.com/kdh4242/MC_policy.gitgit remote add origin https://github.com/kdh4242/MC_policy.git
 
 - [클래스(커뮤니티)](service/ch5_join_class/community) => [`app down`](https://www.modooclass.net/class/user/following/140019) 
 
@@ -221,7 +221,7 @@
 
 - [결제관리](service/ch6_admin_cms/payments) => [`web`](https://www.modooclass.net/class/user/following/140019) 
 
-- [카테고리 및 배너 제어](service/ch6_admin_cms/etc) => [`web`](https://www.modooclass.net/class/user/following/140019) 
+- [카테고리 및 배너 제어](service/ch6_admin_cms/etc) => [`web`](https://www.modooclass.net/class/user/following/140019) git remote add origin https://github.com/kdh4242/MC_policy.git
 
 - [추가개선 :  QA문서](service/ch6_admin_cms/upgrade)
 
@@ -253,7 +253,7 @@
 
 
 
-## **#3. MARKETING**
+## **#3. MARKETINGgit remote add origin https://github.com/kdh4242/MC_policy.git**
 
 
 
@@ -269,7 +269,7 @@
 
 - 클래스 관리 정책
 
-  
+  git remote add origin https://github.com/kdh4242/MC_policy.git
 
 
 
@@ -283,7 +283,7 @@
 
 
 
-##  **CONTRIBUTOR** 
+##  **CONTRIBUTOR** git remote add origin https://github.com/kdh4242/MC_policy.git
 
 #### [서비스 제작 참여]
 
