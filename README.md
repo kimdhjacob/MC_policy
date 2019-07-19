@@ -13,16 +13,16 @@
 ## **개 요**
 
 >  **모두의 클래스**는 누구나 코치(선생님)가 될 수 있는 온라인 클래스 플랫폼(웹/앱) 서비스로 
->  새로운 일을 형태 | 사람과 사람의 가치를 두고 있다. 
+>  새로운 일을 형태 | 사람과 사람의 연결에 가치를 두고 있다. 
 >
 >  해당 문서는 내부 가이드 문서로서 팀원간 원활한 소통과 서비스 정책을 공유 하기 위함.
 >
 >  *총 4개의 섹터로 구성*
 >
->  - [#1.SERVICE](service/) - 앱 및 웹서비스 `개발팀`
->  - [#2.CONTENTS](contents) - 안에 구성되는 클래스 및 코치 `컨텐츠팀`
->  - [#3.MARKETING](marketing) - 각 채널을 통한 마케팅 영상 및 이미지 제작 `마케팅팀`
->  - [#4.POLICY](policy) - 모클 서비스에 도입되는 모든 정책 `전체관리`
+>  - [#1. SERVICE](service/) - 앱 및 웹서비스 `개발팀`
+>  - [#2. CONTENTS](contents) - 안에 구성되는 클래스 및 코치 `컨텐츠팀`
+>  - [#3. MARKETING](marketing) - 각 채널을 통한 마케팅 영상 및 이미지 제작 `마케팅팀`
+>  - [#4. POLICY](policy) - 모클 서비스에 도입되는 모든 정책 `전체관리`
 >
 >  각 문서는 팀별로 관리 되며, 모든 진행사항은 공유된다.
 
@@ -32,7 +32,7 @@
 
 
 
-> 서비스는 7장 (사용자이용환경) - 각 화면단으로 구성.
+> 서비스는 7장 (사용자 이용환경) ->  각 화면단으로 구성.
 >
 > 각 화면단은 `목적|구성|기능|디자인|작업자 `  로  되어 있으며,
 >
@@ -49,7 +49,7 @@
 
 - [홈화면](service/ch1_home)  => [`web`](https://www.modooclass.net/) 
 
-- [검색단](service/ch1_home/search) => 미완료 (기획단계)
+- [검색단](service/ch1_home/search) => [`web`](https://www.modooclass.net/class/search)  
 
 - [로그인](service/ch1_home/login)   =>   [`web`](https://www.modooclass.net/modoo/login)
 
