@@ -8,6 +8,13 @@
 
 #### 언제 어디서나 함께 하는 즐거움. 
 
+> 모클은 다음세대에 대한 일과 사람간의 관계를 재정의 합니다. 
+>
+> "편한사람들과 좋아하는 일을 하고 싶다. " = 누구나 가지고 있는 희망...   
+> 우리는 기술적으로 위 문제를 해결해 나갑니다.  
+
+
+
 
 
 ## **개 요**
@@ -23,6 +30,7 @@
 >  - [#2. CONTENTS](contents) - 안에 구성되는 클래스 및 코치 `컨텐츠팀`
 >  - [#3. MARKETING](marketing) - 각 채널을 통한 마케팅 영상 및 이미지 제작 `마케팅팀`
 >  - [#4. POLICY](policy) - 모클 서비스에 도입되는 모든 정책 `전체관리`
+>  - [#5. ANALYSIS](analysis) - 모든 서비스의 판단기준과 개선을 위한 수치화 `전체관리`
 >
 >  각 문서는 팀별로 관리 되며, 모든 진행사항은 공유된다.
 
@@ -73,7 +81,7 @@
 
 
 
-
+리
 
 ###  2장. 마이페이지  `web` 
 
@@ -106,7 +114,7 @@
 
 - [마이페이지 - configuration](service/ch2_my_class/config)
 
-  
+  리
   
   
   [작업자] 기획 - `@김대형` `@신민수`  | 디자인 - `@김보라` | 개발 - `@안지환` `@노육민` `@박정희`
@@ -229,7 +237,7 @@
 
 - [서버구성](service/ch7_configuration/server)
 
-- [DB구성](service/ch7_configuration/db)
+- [DB구성리](service/ch7_configuration/db)
 
 - [Config (status, level, etc...)](service/ch7_configuration/config)
 
@@ -243,7 +251,7 @@
 
 ##  **#2.CONTENTS** 
 
-
+리리
 
 
 
@@ -263,7 +271,16 @@
 
 - 클래스 관리 정책
 
-  
+
+
+
+
+
+## **#5.ANALYSIS**
+
+- 
+
+
 
 
 
