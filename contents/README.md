@@ -1,6 +1,6 @@
 
 
-![](assets/image/logo1024.png)
+![](../assets/image/logo1024.png)
 
  
 
